@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on dynamic projects and enhance my skills by using cutting-edge technologies.I am looking for oppurtunities to work and expanse my skills in tech field.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: 😊 🎲⚡🌞🔥❄️ 💛
+- ![GitHub Snake Light](https://github.com/your-username/your-username/blob/output/github-snake.svg)
+
 
 <!---
 Raveenaross/Raveenaross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
