@@ -1,6 +1,4 @@
- <img width="1584" height="396" alt="github_banner_v1" src="https://github.com/user-attachments/assets/0b5e8c3e-7338-4d96-bb0c-321b2f60836c" />
-
-### Hello, I’m Raveena . I’m a recent Software Engineer graduate.
+## Hello, I’m Raveena . I’m a recent Software Engineer graduate.
 
 👀 I’m eager to learn new technologies, expand my career in the field of technology, and apply them in scientific domains.
 
